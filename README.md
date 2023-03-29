@@ -8,5 +8,5 @@ Simple shell script to turn a base Linux Mint install into a minimal system for 
 **Usage**
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/franksmcb/mint-min/mint-min.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/franksmcb/mint-min/main/mint-min.sh)"
 ```
