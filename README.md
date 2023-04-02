@@ -12,4 +12,4 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/franksmcb/mint-min/main/
 ```
 Or
 
-`curl https://raw.githubusercontent.com/franksmcb/mint-min/main/mint-min.sh`
+`wget https://raw.githubusercontent.com/franksmcb/mint-min/main/mint-min.sh`
