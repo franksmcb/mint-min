@@ -290,7 +290,6 @@ rhythmbox \
 rhythmbox-data \
 rhythmbox-plugins \
 rhythmbox-plugin-tray-icon \
-seahorse \
 simple-scan \
 sticky \
 synaptic \
